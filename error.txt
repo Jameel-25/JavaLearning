@@ -1,0 +1,3 @@
+Data after setErr() method
+Exception in thread "main" java.lang.ArithmeticException: / by zero
+	at InputOutputStreamJava.STDOutDemo.main(STDOutDemo.java:23)
